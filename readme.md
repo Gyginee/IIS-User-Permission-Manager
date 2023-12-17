@@ -15,7 +15,6 @@ This Windows Forms application is designed to automate the process of granting I
 ```bash
 git clone https://github.com/gyginee/IISUserPermissionManager.git
 cd IISUserPermissionManager
-// Follow any additional installation instructions if applicable
 ```
 
 ## Usage
@@ -31,7 +30,7 @@ After installation, follow these steps to use the application:
 
 Contributions to the IIS User Permission Manager are welcome! Here's how you can contribute:
 
-- Fork the repository and create your branch from `master`.
+- Fork the repository and create your branch from `main`.
 - Add or improve features, fix bugs, or enhance documentation.
 - Write meaningful commit messages.
 - Submit a pull request with a comprehensive description of changes.

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DevProject\\Access\\IIS User Permission Manager.csproj",
-      "projectName": "IIS User Permission Manager",
-      "projectPath": "E:\\DevProject\\Access\\IIS User Permission Manager.csproj",
+      "projectUniqueName": "E:\\DevProject\\Access\\IISUserPermissionManager.csproj",
+      "projectName": "IISUserPermissionManager",
+      "projectPath": "E:\\DevProject\\Access\\IISUserPermissionManager.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "E:\\DevProject\\Access\\obj\\",
       "projectStyle": "PackageReference",

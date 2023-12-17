@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YEGU591O1FYyYy9OnOiAnr0QANBvuMDAdOnTgh1fBxbxa/fhzQ1jru2ocq4yaX9h8DyMWBJI0F70uKB1f7Pz1w==",
+  "dgSpecHash": "6oxjAXB57pq+4LBJtzZfNUJg9YalFVK5K02zQCRxdYa6zp/vhwc3V/odYCIT0Cx3F8RmQA+ux2w7Z9ne8Fh38A==",
   "success": true,
-  "projectFilePath": "E:\\DevProject\\Access\\IIS User Permission Manager.csproj",
+  "projectFilePath": "E:\\DevProject\\Access\\IISUserPermissionManager.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
