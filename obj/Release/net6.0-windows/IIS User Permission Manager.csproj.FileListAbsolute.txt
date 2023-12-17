@@ -1,0 +1,18 @@
+E:\DevProject\Access\bin\Release\net6.0-windows\IIS User Permission Manager.exe
+E:\DevProject\Access\bin\Release\net6.0-windows\IIS User Permission Manager.deps.json
+E:\DevProject\Access\bin\Release\net6.0-windows\IIS User Permission Manager.runtimeconfig.json
+E:\DevProject\Access\bin\Release\net6.0-windows\IIS User Permission Manager.dll
+E:\DevProject\Access\bin\Release\net6.0-windows\IIS User Permission Manager.pdb
+E:\DevProject\Access\obj\Release\net6.0-windows\IIS User Permission Manager.csproj.AssemblyReference.cache
+E:\DevProject\Access\obj\Release\net6.0-windows\Program.resources
+E:\DevProject\Access\obj\Release\net6.0-windows\IIS_User_Permission_Manager.Properties.Resources.resources
+E:\DevProject\Access\obj\Release\net6.0-windows\IIS User Permission Manager.csproj.GenerateResource.cache
+E:\DevProject\Access\obj\Release\net6.0-windows\IIS User Permission Manager.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevProject\Access\obj\Release\net6.0-windows\IIS User Permission Manager.AssemblyInfoInputs.cache
+E:\DevProject\Access\obj\Release\net6.0-windows\IIS User Permission Manager.AssemblyInfo.cs
+E:\DevProject\Access\obj\Release\net6.0-windows\IIS User Permission Manager.csproj.CoreCompileInputs.cache
+E:\DevProject\Access\obj\Release\net6.0-windows\IIS User Permission Manager.dll
+E:\DevProject\Access\obj\Release\net6.0-windows\refint\IIS User Permission Manager.dll
+E:\DevProject\Access\obj\Release\net6.0-windows\IIS User Permission Manager.pdb
+E:\DevProject\Access\obj\Release\net6.0-windows\IIS User Permission Manager.genruntimeconfig.cache
+E:\DevProject\Access\obj\Release\net6.0-windows\ref\IIS User Permission Manager.dll
